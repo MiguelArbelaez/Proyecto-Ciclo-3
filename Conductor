@@ -1,0 +1,7 @@
+namespace VehiculosTransporte 
+public class Conductor
+{
+string Nombres {get;set;}
+string Apellidos {get;set;}
+string LicenciaConduccion {get;set;}
+}
